@@ -4,9 +4,19 @@ It is a simple game that developed using c++ and open GL library.  In this game 
 
 
 
+What is Glut ?
+
+it is set of tools that give you the ability to use 
+open GL library. Which provide many 
+functions to create objects, perform 
+transformations,  projections, rendering
+ and to apply various graphics functions.
 
 
 
 
 
-![](/Ball_Catching_Game_Poster.jpg)
+
+
+
+![](/Poster_of_Ball_Catching_Game_.jpg)
